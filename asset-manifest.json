@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/STRATHcubeWebsite/static/css/main.45aa7daf.css",
+    "main.js": "/STRATHcubeWebsite/static/js/main.8ff422f6.js",
+    "static/js/453.ac400823.chunk.js": "/STRATHcubeWebsite/static/js/453.ac400823.chunk.js",
+    "static/media/patch-grey.png": "/STRATHcubeWebsite/static/media/patch-grey.4287c63fdf9fc0559f0b.png",
+    "static/media/logo with stars2.png": "/STRATHcubeWebsite/static/media/logo with stars2.c2ea8264fb0bdeecb612.png",
+    "static/media/logo with stars3.png": "/STRATHcubeWebsite/static/media/logo with stars3.3000d8665d8c517d7550.png",
+    "index.html": "/STRATHcubeWebsite/index.html",
+    "main.45aa7daf.css.map": "/STRATHcubeWebsite/static/css/main.45aa7daf.css.map",
+    "main.8ff422f6.js.map": "/STRATHcubeWebsite/static/js/main.8ff422f6.js.map",
+    "453.ac400823.chunk.js.map": "/STRATHcubeWebsite/static/js/453.ac400823.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45aa7daf.css",
+    "static/js/main.8ff422f6.js"
+  ]
+}
